@@ -19,8 +19,8 @@ Enter a city name to see the current weather fetched from a free weather API.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/react-weather-app.git
-   cd react-weather-app
+   git clone https://github.com/46-debug/QuadB-w1-d3_d4.git
+   cd dynamic-weather-app
    ```
 
 2. **Install dependencies:**
